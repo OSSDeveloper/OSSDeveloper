@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OSSDeveloper
-- 👀 I’m interested in Data Science, Machine Learning, JavaScript, Node.js
+- 👀 I’m interested in Data Science, Machine Learning, Python, JavaScript, Node.js
 - 🌱 I’m currently woring with Financial & Healthcare data
 - 💞️ I’m looking to collaborate on - projects that interest me
 - 📫 How to reach me - drop a mail @ossdeveloper8@gmail.com
